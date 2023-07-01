@@ -137,6 +137,145 @@
           ]
         }
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Rosa's New Year",
+      "publisher": "Rex M. Torres",
+      "tray_image_file": "tray_rosa.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "rexmtorres@gmail.com",
+      "publisher_website": "https://github.com/rexmtorres/WhatsAppStickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01_rosa_angry.webp",
+          "emojis": [
+            "😤",
+            "😠",
+            "😡"
+          ]
+        },
+        {
+          "image_file": "02_rosa_rub.webp",
+          "emojis": [
+            "💩",
+            "😵‍💫",
+            "😝"
+          ]
+        },
+        {
+          "image_file": "03_rosa_hug.webp",
+          "emojis": [
+            "🤗️",
+            "🥰️",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "04_rosa_drool.webp",
+          "emojis": [
+            "🤤",
+            "👅",
+            "🤑"
+          ]
+        },
+        {
+          "image_file": "05_rosa_door.webp",
+          "emojis": [
+            "😮",
+            "🚪"
+          ]
+        },
+        {
+          "image_file": "06_rosa_gong.webp",
+          "emojis": [
+            "🔔",
+            "🛎️",
+            "🎐"
+          ]
+        },
+        {
+          "image_file": "07_rosa_ramen.webp",
+          "emojis": [
+            "🍜",
+            "🍝",
+            "🍴"
+          ]
+        },
+        {
+          "image_file": "08_rosa_dragon.webp",
+          "emojis": [
+            "🐉",
+            "🐲"
+          ]
+        },
+        {
+          "image_file": "09_rosa_wave.webp",
+          "emojis": [
+            "👋",
+            "🙋‍♂️",
+            "🙋‍♀️"
+          ]
+        },
+        {
+          "image_file": "10_rosa_jump.webp",
+          "emojis": [
+            "😃",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "11_rosa_kiss.webp",
+          "emojis": [
+            "😘",
+            "😗",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "12_rosa_wealth.webp",
+          "emojis": [
+            "🤑",
+            "🫰",
+            "💰"
+          ]
+        },
+        {
+          "image_file": "13_rosa_yay.webp",
+          "emojis": [
+            "🥳",
+            "😁",
+            "🤗"
+          ]
+        },
+        {
+          "image_file": "14_rosa_many.webp",
+          "emojis": [
+            "👪",
+            "👨‍👩‍👧‍👦"
+          ]
+        },
+        {
+          "image_file": "15_rosa_firecrackers.webp",
+          "emojis": [
+            "🎆",
+            "🎇",
+            "🧨"
+          ]
+        },
+        {
+          "image_file": "16_rosa_money.webp",
+          "emojis": [
+            "🤑",
+            "🫰",
+            "💰"
+          ]
+        }
+      ]
     }
   ]
 }
