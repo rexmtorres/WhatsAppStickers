@@ -1,1 +1,43 @@
-include ':app'
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+
+    // For plugins that don't support the new project structure yet
+    // (plugins block in root build.gradle), indicate them here:
+    resolutionStrategy {
+        eachPlugin {
+            switch (requested.id.id) {
+//                case "com.google.firebase.crashlytics":
+//                    useModule "com.google.firebase:firebase-crashlytics-gradle:$firebase_crashlytics_version"
+//                    break
+//                case "com.google.firebase.firebase-perf":
+//                    useModule "com.google.firebase:perf-plugin:$firebase_perf_mon_version"
+//                    break
+//                case "com.google.gms.google-services":
+//                    useModule "com.google.gms:google-services:$google_services_version"
+//                    break
+            }
+        }
+    }
+}
+
+plugins {
+    // JDK 17 support
+    id "org.gradle.toolchains.foojay-resolver-convention" version "$foojay_toolchain_resolver_version"
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Rosa WhatsApp Stickers"
+
+include ":app"
